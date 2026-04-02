@@ -1,0 +1,364 @@
+{
+  "uuid": "8077134a5b4270cd18975583a5ce12ca",
+  "path": "Offline/Voxx%20Dott",
+  "name": "Voxx Dott",
+  "content": "",
+  "created_at": "2026-04-01 20:09:34",
+  "updated_at": "2026-04-03 00:53:33",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "9e2458b9cef43ad27ddfa22cff45bec0",
+      "title": "Voxx_Dott_One_Ai",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0be0e6a9bf56432381e13df21a729729": 1,
+        "8a2661afbd720fa4ca3552b5219a45bc": 1,
+        "df8405e2fa0e40a984c435ad4c8d5cf3": 1,
+        "af7b5c23396d455aa8d3490ce35a3b90": 2,
+        "7e257627779b4f4da446e4fac2e01600": 11,
+        "1bbe601434ed4b9d964ec6aa876e4141": 1,
+        "0eedab92e7aafdde01ddc57928d2356c": 1,
+        "5ed45fb45da449fca94a3e211c98b324": 21,
+        "789e80daa70d4e46a90c80230312c7f3": 3,
+        "ad0475a31ad94862976bf16c0d0f210b": 5,
+        "772e12f9c8ab47c1bd35b4c3154880a9": 1,
+        "a8a33eb079b04aeaa6792b58b3f4a557": 1,
+        "4363dc679f85409d8170eaa85095a946": 1,
+        "2ffc925a63134a94a1174c551b7d9556": 1,
+        "15940a69bb254f5b9ac49b8dcf52fa34": 1,
+        "1f058509229b44cc8284a489c205da5a": 1,
+        "cf0c249f970e43afba5e62f0e86056ce": 1,
+        "8e66905a3263f28c3a7c74dff8019de2": 2,
+        "fa49c1bcc0724a98a1379496e7afedbd": 1,
+        "9f5541589fd0495c8e7d5fac8446187b": 1,
+        "5c3677f57591490ca524533e1dd1aa4b": 1,
+        "42f5ad4996214c06954c61b29a1a9558": 4,
+        "4be373e54b84bc7610843095aa7d4c42": 1,
+        "a1a917159bf0428cb774136ee5fb1a08": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          21,
+          "C0402",
+          "C1,C2,C3,C7,C8,C9,C11,C12,C13,C14,C15,C16,C17,C18,C19,C20,C27,C28,C29,C35,C37",
+          {
+            "Manufacturer Part": "CC0402X7R50V104KN",
+            "Manufacturer": "TORCH(火炬)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53084447"
+          }
+        ],
+        [
+          "100uF",
+          5,
+          "CAP-SMD_BD6.3-L6.6-W6.6-LS7.3-FD",
+          "C4,C10,C21,C22,C36",
+          {
+            "Manufacturer Part": "MA16V100M6X8",
+            "Manufacturer": "JIERR(捷而瑞)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C48971042"
+          }
+        ],
+        [
+          "10uF",
+          2,
+          "C0805",
+          "C5,C6",
+          {
+            "Manufacturer Part": "CL21B106KPQNNNE",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C32635"
+          }
+        ],
+        [
+          "680pF",
+          4,
+          "C0402",
+          "C23,C24,C25,C26",
+          {
+            "Manufacturer Part": "CL05C681JB5NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C307451"
+          }
+        ],
+        [
+          "B2B-PH-K-S(LF)(SN)",
+          1,
+          "CONN-TH_B2B-PH-K-S",
+          "CN2",
+          {
+            "Manufacturer Part": "B2B-PH-K-S(LF)(SN)",
+            "Manufacturer": "JST",
+            "Supplier": "LCSC",
+            "Supplier Part": "C131337"
+          }
+        ],
+        [
+          "SS34_C8678",
+          1,
+          "SMA_L4.3-W2.6-LS5.2-RD",
+          "D3",
+          {
+            "Manufacturer Part": "SS34",
+            "Manufacturer": "MDD(辰达半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C8678"
+          }
+        ],
+        [
+          "WJ128V-5.0-2P",
+          1,
+          "CONN-TH_2P-P5.00_WJ128V-5.0-2P",
+          "P1",
+          {
+            "Manufacturer Part": "WJ128V-5.0-02P-14-00A",
+            "Manufacturer": "KANGNEX(康奈克斯电气)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C8269"
+          }
+        ],
+        [
+          "1.2kΩ",
+          1,
+          "R0402",
+          "R1",
+          {
+            "Manufacturer Part": "RC0402FR-071K2L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C138040"
+          }
+        ],
+        [
+          "200kΩ",
+          1,
+          "R0402",
+          "R2",
+          {
+            "Manufacturer Part": "FRC0402F2003TS",
+            "Manufacturer": "FOJAN(富捷)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2906866"
+          }
+        ],
+        [
+          "100kΩ",
+          10,
+          "R0402",
+          "R3,R4,R7,R8,R9,R10,R11,R12,R14,R23",
+          {
+            "Manufacturer Part": "RC0402FR-07100KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C60491"
+          }
+        ],
+        [
+          "33kΩ",
+          1,
+          "R0402",
+          "R5",
+          {
+            "Manufacturer Part": "RC0402FR-0733KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C138003"
+          }
+        ],
+        [
+          "180kΩ",
+          1,
+          "R0402",
+          "R6",
+          {
+            "Manufacturer Part": "RC0402FR-07100KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C138046"
+          }
+        ],
+        [
+          "33Ω",
+          1,
+          "R0402",
+          "R13",
+          {
+            "Manufacturer Part": "RC0402FR-0733RL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C138002"
+          }
+        ],
+        [
+          "5.1kΩ",
+          2,
+          "R0402",
+          "R20,R21",
+          {
+            "Manufacturer Part": "RC0402FR-075K1L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C105872"
+          }
+        ],
+        [
+          "47kΩ",
+          1,
+          "R0402",
+          "R24",
+          {
+            "Manufacturer Part": "RC0402FR-0747KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C93943"
+          }
+        ],
+        [
+          "ESP32-WROOM-32",
+          1,
+          "WIFIM-SMD_ESP32-WROOM-32-N4",
+          "U1",
+          {
+            "Manufacturer Part": "ESP32-WROOM-32-N4",
+            "Manufacturer": "ESPRESSIF(乐鑫)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C82899"
+          }
+        ],
+        [
+          "PCM5102APW",
+          1,
+          "TSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL",
+          "U2",
+          {
+            "Manufacturer Part": "PCM5102APW",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1520792"
+          }
+        ],
+        [
+          "TPA3118D2DAP",
+          1,
+          "HTSSOP-32_L11.0-W6.1-P0.65-LS8.1-BL-EP",
+          "U3",
+          {
+            "Manufacturer Part": "TPA3118D2DAP",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2879312"
+          }
+        ],
+        [
+          "SX1308",
+          1,
+          "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL",
+          "U4",
+          {
+            "Manufacturer Part": "SX1308",
+            "Manufacturer": "SX(硕芯科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C78162"
+          }
+        ],
+        [
+          "LMR14050SDDA",
+          1,
+          "SOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP-2",
+          "U5",
+          {
+            "Manufacturer Part": "LMR14050SDDA",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C98458"
+          }
+        ],
+        [
+          "4.7uH",
+          3,
+          "IND-SMD_L7.0-W6.6_APH0630",
+          "U6,U10,U12",
+          {
+            "Manufacturer Part": "APH0630T4R7M",
+            "Manufacturer": "APV(爱普微)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5349705"
+          }
+        ],
+        [
+          "AMS1117-3.3_C41414107",
+          1,
+          "TO-252-2_L6.6-W5.6-P2.3-LS9.7",
+          "U7",
+          {
+            "Manufacturer Part": "AMS1117-3.3",
+            "Manufacturer": "YONGYUTAI(永裕泰)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C41414107"
+          }
+        ],
+        [
+          "CP2102-GMR",
+          1,
+          "WQFN-28_L5.0-W5.0-P0.50-BL-EP3.2",
+          "U8",
+          {
+            "Manufacturer Part": "CP2102-GMR",
+            "Manufacturer": "SKYWORKS/SILICON LABS(芯科)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C6568"
+          }
+        ],
+        [
+          "TP5100_C379389",
+          1,
+          "TQFN-16_L4.0-W4.0-P0.65-BL-EP",
+          "U11",
+          {
+            "Manufacturer Part": "TP5100",
+            "Manufacturer": "TOPPOWER(南京拓微)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C379389"
+          }
+        ],
+        [
+          "TYPE-C-31-M-12",
+          1,
+          "USB-C_SMD-TYPE-C-31-M-12_1",
+          "USBC1",
+          {
+            "Manufacturer Part": "TYPE-C-31-M-12",
+            "Manufacturer": "韩国韩荣",
+            "Supplier": "LCSC",
+            "Supplier Part": "C165948"
+          }
+        ]
+      ],
+      "updateTime": 1775170413,
+      "createTime": 1775066974,
+      "histories": [],
+      "created_at": "2026-04-01 20:09:34",
+      "updated_at": "2026-04-03 00:53:33"
+    }
+  ],
+  "sort": [],
+  "title": "Voxx Dott",
+  "foldername": "Voxx Dott",
+  "schfilename": "Voxx Dott.json",
+  "schfilemtime": 1775170413507
+}
