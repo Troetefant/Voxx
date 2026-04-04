@@ -25,14 +25,8 @@ Whether you want a **compact portable speaker**, a **living-room system**, or a 
 
 Voxx is built around different speaker sizes that all work together:
 
-- **Voxx Dot**  
+- **Voxx Dott**  
   Ultra-compact core speaker. Small, portable, but surprisingly powerful.
-
-- **Voxx Core**  
-  The all-rounder. Balanced sound, strong bass, perfect for everyday use.
-
-- **Voxx Stack**  
-  Large, high-output speaker for parties, outdoor use, or small PA setups.
 
 All Voxx speakers are designed to **connect, sync, and scale**.
 
